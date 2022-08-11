@@ -328,7 +328,7 @@ $
   
 
 👤 **Akpokighe Ovigwe M. Marvellous**
-GitHub: [@AkpokigheMarvellous](https://github.com/AkpokigheMarvellous)
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/akpokighe-marvellous-o-76b37b1a9/)
+- GitHub: [@AkpokigheMarvellous](https://github.com/AkpokigheMarvellous)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akpokighe-marvellous-o-76b37b1a9/)
 
 
